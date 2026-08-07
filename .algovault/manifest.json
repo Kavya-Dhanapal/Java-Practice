@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T08:41:47.644Z",
+  "lastUpdated": "2026-08-07T08:54:20.944Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3287,6 +3287,24 @@
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Two Pointers/Check If a Word Occurs As a Prefix of Any Word in a Sentence/"
+            }
+          }
+        },
+        "second-largest-digit-in-a-string": {
+          "questionId": "1796",
+          "title": "Second Largest Digit in a String",
+          "titleSlug": "second-largest-digit-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092860944,
+              "runtime": "2 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Hash Table/Second Largest Digit in a String/"
             }
           }
         }

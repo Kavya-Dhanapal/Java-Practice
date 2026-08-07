@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1786092107645" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1786092860957" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -190,6 +190,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 1189 | [Maximum Number of Balloons](./Hash%20Table/Maximum%20Number%20of%20Balloons/) | Easy |
+| 1796 | [Second Largest Digit in a String](./Hash%20Table/Second%20Largest%20Digit%20in%20a%20String/) | Easy |
 | 1805 | [Number of Different Integers in a String](./Hash%20Table/Number%20of%20Different%20Integers%20in%20a%20String/) | Easy |
 | 3146 | [Permutation Difference between Two Strings](./Hash%20Table/Permutation%20Difference%20between%20Two%20Strings/) | Easy |
 | 3541 | [Find Most Frequent Vowel and Consonant](./Hash%20Table/Find%20Most%20Frequent%20Vowel%20and%20Consonant/) | Easy |
