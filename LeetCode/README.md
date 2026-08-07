@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1786092076034" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1786092079248" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,14 +18,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Medium |
+| 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 31 | [Next Permutation](./Array/Next%20Permutation/) | Medium |
 | 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
+| 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 56 | [Merge Intervals](./Array/Merge%20Intervals/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
@@ -42,6 +45,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
+| 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
@@ -60,11 +64,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1816 | [Truncate Sentence](./Array/Truncate%20Sentence/) | Easy |
+| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 1979 | [Find Greatest Common Divisor of Array](./Array/Find%20Greatest%20Common%20Divisor%20of%20Array/) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2104 | [Sum of Subarray Ranges](./Array/Sum%20of%20Subarray%20Ranges/) | Medium |
 | 2149 | [Rearrange Array Elements by Sign](./Array/Rearrange%20Array%20Elements%20by%20Sign/) | Medium |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
+| 2574 | [Left and Right Sum Differences](./Array/Left%20and%20Right%20Sum%20Differences/) | Easy |
+| 2798 | [Number of Employees Who Met the Target](./Array/Number%20of%20Employees%20Who%20Met%20the%20Target/) | Easy |
+| 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/) | Easy |
+| 3701 | [Compute Alternating Sum](./Array/Compute%20Alternating%20Sum/) | Easy |
 | 3866 | [First Unique Even Element](./Array/First%20Unique%20Even%20Element/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
 
@@ -145,6 +156,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
+| 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
 | 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 1805 | [Number of Different Integers in a String](./Hash%20Table/Number%20of%20Different%20Integers%20in%20a%20String/) | Easy |
@@ -242,7 +254,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
+| 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
 | 2000 | [Reverse Prefix of Word](./Two%20Pointers/Reverse%20Prefix%20of%20Word/) | Easy |
+| 3794 | [Reverse String Prefix](./Two%20Pointers/Reverse%20String%20Prefix/) | Easy |
 
 </details>
 

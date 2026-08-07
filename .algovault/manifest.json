@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T08:41:16.033Z",
+  "lastUpdated": "2026-08-07T08:41:19.247Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2054,12 +2054,6 @@
               "runtime": "0 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
-            },
-            "123456class solution {public:    int searchinsert(vector<int>& nums, int target) {            }};": {
-              "syncedAt": 1786092076033,
-              "runtime": "N/A",
-              "memory": "N/A",
-              "githubPath": "LeetCode/Array/Search Insert Position/"
             }
           }
         },
@@ -2194,6 +2188,266 @@
               "runtime": "28 ms",
               "memory": "51 MB",
               "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "1 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "reverse-words-in-a-string-iii": {
+          "questionId": "557",
+          "title": "Reverse Words in a String III",
+          "titleSlug": "reverse-words-in-a-string-iii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "13 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
+            }
+          }
+        },
+        "reverse-string-prefix": {
+          "questionId": "3794",
+          "title": "Reverse String Prefix",
+          "titleSlug": "reverse-string-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "1 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String Prefix/"
+            }
+          }
+        },
+        "intersection-of-two-arrays": {
+          "questionId": "349",
+          "title": "Intersection of Two Arrays",
+          "titleSlug": "intersection-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "2 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "first-unique-character-in-a-string": {
+          "questionId": "387",
+          "title": "First Unique Character in a String",
+          "titleSlug": "first-unique-character-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Queue",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "30 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
+            }
+          }
+        },
+        "number-of-employees-who-met-the-target": {
+          "questionId": "2798",
+          "title": "Number of Employees Who Met the Target",
+          "titleSlug": "number-of-employees-who-met-the-target",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "0 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Array/Number of Employees Who Met the Target/"
+            }
+          }
+        },
+        "left-and-right-sum-differences": {
+          "questionId": "2574",
+          "title": "Left and Right Sum Differences",
+          "titleSlug": "left-and-right-sum-differences",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "12 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Left and Right Sum Differences/"
+            }
+          }
+        },
+        "valid-sudoku": {
+          "questionId": "36",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "11 ms",
+              "memory": "50.1 MB",
+              "githubPath": "LeetCode/Array/Valid Sudoku/"
+            }
+          }
+        },
+        "merge-intervals": {
+          "questionId": "56",
+          "title": "Merge Intervals",
+          "titleSlug": "merge-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Quicksort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "8 ms",
+              "memory": "49.2 MB",
+              "githubPath": "LeetCode/Array/Merge Intervals/"
+            }
+          }
+        },
+        "compute-alternating-sum": {
+          "questionId": "3701",
+          "title": "Compute Alternating Sum",
+          "titleSlug": "compute-alternating-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Compute Alternating Sum/"
+            }
+          }
+        },
+        "find-words-containing-character": {
+          "questionId": "2942",
+          "title": "Find Words Containing Character",
+          "titleSlug": "find-words-containing-character",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "2 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Find Words Containing Character/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "1 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "final-value-of-variable-after-performing-operations": {
+          "questionId": "2011",
+          "title": "Final Value of Variable After Performing Operations",
+          "titleSlug": "final-value-of-variable-after-performing-operations",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "1 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Final Value of Variable After Performing Operations/"
+            }
+          }
+        },
+        "find-minimum-operations-to-make-all-elements-divisible-by-three": {
+          "questionId": "3190",
+          "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+          "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092079247,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Find Minimum Operations to Make All Elements Divisible by Three/"
             }
           }
         }
