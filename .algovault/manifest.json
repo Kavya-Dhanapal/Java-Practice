@@ -1,0 +1,30 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-08-07T08:32:38.434Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "123456class solution {public:    double findmediansortedarrays(vector<int>& nums1, vector<int>& nums2) {            }};": {
+              "syncedAt": 1786091558434,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        }
+      },
+      "username": "KavyaDhanapal"
+    }
+  }
+}
