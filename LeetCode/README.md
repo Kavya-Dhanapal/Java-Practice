@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1786092029979" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1786092042891" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,6 +24,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 47 | [Permutations II](./Array/Permutations%20II/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 135 | [Candy](./Array/Candy/) | Hard |
 | 137 | [Single Number II](./Array/Single%20Number%20II/) | Medium |
 | 200 | [Number of Islands](./Array/Number%20of%20Islands/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
@@ -34,9 +35,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 739 | [Daily Temperatures](./Array/Daily%20Temperatures/) | Medium |
+| 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
+| 890 | [Find and Replace Pattern](./Array/Find%20and%20Replace%20Pattern/) | Medium |
+| 904 | [Fruit Into Baskets](./Array/Fruit%20Into%20Baskets/) | Medium |
+| 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
+| 974 | [Subarray Sums Divisible by K](./Array/Subarray%20Sums%20Divisible%20by%20K/) | Medium |
+| 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
+| 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1979 | [Find Greatest Common Divisor of Array](./Array/Find%20Greatest%20Common%20Divisor%20of%20Array/) | Easy |
 | 2104 | [Sum of Subarray Ranges](./Array/Sum%20of%20Subarray%20Ranges/) | Medium |
+| 2149 | [Rearrange Array Elements by Sign](./Array/Rearrange%20Array%20Elements%20by%20Sign/) | Medium |
+| 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 2352 | [Equal Row and Column Pairs](./Array/Equal%20Row%20and%20Column%20Pairs/) | Medium |
 | 3866 | [First Unique Even Element](./Array/First%20Unique%20Even%20Element/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
 
@@ -61,6 +72,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
+| 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
+| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 197 | [Rising Temperature](./Database/Rising%20Temperature/) | Easy |
 | 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
@@ -68,6 +81,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 607 | [Sales Person](./Database/Sales%20Person/) | Easy |
 | 610 | [Triangle Judgement](./Database/Triangle%20Judgement/) | Easy |
 | 620 | [Not Boring Movies](./Database/Not%20Boring%20Movies/) | Easy |
+| 1068 | [Product Sales Analysis I](./Database/Product%20Sales%20Analysis%20I/) | Easy |
+| 1378 | [Replace Employee ID With The Unique Identifier](./Database/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/) | Easy |
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
@@ -161,6 +176,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |

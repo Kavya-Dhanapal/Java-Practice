@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T08:40:29.978Z",
+  "lastUpdated": "2026-08-07T08:40:42.890Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1286,6 +1286,303 @@
               "runtime": "5 ms",
               "memory": "69.6 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
+            }
+          }
+        },
+        "equal-row-and-column-pairs": {
+          "questionId": "2352",
+          "title": "Equal Row and Column Pairs",
+          "titleSlug": "equal-row-and-column-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042889,
+              "runtime": "39 ms",
+              "memory": "54.5 MB",
+              "githubPath": "LeetCode/Array/Equal Row and Column Pairs/"
+            }
+          }
+        },
+        "find-and-replace-pattern": {
+          "questionId": "890",
+          "title": "Find and Replace Pattern",
+          "titleSlug": "find-and-replace-pattern",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042889,
+              "runtime": "1 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Find and Replace Pattern/"
+            }
+          }
+        },
+        "count-and-say": {
+          "questionId": "38",
+          "title": "Count and Say",
+          "titleSlug": "count-and-say",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042889,
+              "runtime": "4 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/String/Count and Say/"
+            }
+          }
+        },
+        "fruit-into-baskets": {
+          "questionId": "904",
+          "title": "Fruit Into Baskets",
+          "titleSlug": "fruit-into-baskets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042889,
+              "runtime": "53 ms",
+              "memory": "70.5 MB",
+              "githubPath": "LeetCode/Array/Fruit Into Baskets/"
+            }
+          }
+        },
+        "subarray-sums-divisible-by-k": {
+          "questionId": "974",
+          "title": "Subarray Sums Divisible by K",
+          "titleSlug": "subarray-sums-divisible-by-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042889,
+              "runtime": "23 ms",
+              "memory": "54.8 MB",
+              "githubPath": "LeetCode/Array/Subarray Sums Divisible by K/"
+            }
+          }
+        },
+        "candy": {
+          "questionId": "135",
+          "title": "Candy",
+          "titleSlug": "candy",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042889,
+              "runtime": "3 ms",
+              "memory": "47.8 MB",
+              "githubPath": "LeetCode/Array/Candy/"
+            }
+          }
+        },
+        "longest-mountain-in-array": {
+          "questionId": "845",
+          "title": "Longest Mountain in Array",
+          "titleSlug": "longest-mountain-in-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042889,
+              "runtime": "2 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Longest Mountain in Array/"
+            }
+          }
+        },
+        "maximum-points-you-can-obtain-from-cards": {
+          "questionId": "1423",
+          "title": "Maximum Points You Can Obtain from Cards",
+          "titleSlug": "maximum-points-you-can-obtain-from-cards",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042890,
+              "runtime": "2 ms",
+              "memory": "61.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
+            }
+          }
+        },
+        "count-number-of-nice-subarrays": {
+          "questionId": "1248",
+          "title": "Count Number of Nice Subarrays",
+          "titleSlug": "count-number-of-nice-subarrays",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042890,
+              "runtime": "8 ms",
+              "memory": "60 MB",
+              "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
+            }
+          }
+        },
+        "sort-array-by-parity-ii": {
+          "questionId": "922",
+          "title": "Sort Array By Parity II",
+          "titleSlug": "sort-array-by-parity-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042890,
+              "runtime": "7 ms",
+              "memory": "49.3 MB",
+              "githubPath": "LeetCode/Array/Sort Array By Parity II/"
+            }
+          }
+        },
+        "rearrange-array-elements-by-sign": {
+          "questionId": "2149",
+          "title": "Rearrange Array Elements by Sign",
+          "titleSlug": "rearrange-array-elements-by-sign",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042890,
+              "runtime": "9 ms",
+              "memory": "174.1 MB",
+              "githubPath": "LeetCode/Array/Rearrange Array Elements by Sign/"
+            }
+          }
+        },
+        "partition-array-according-to-given-pivot": {
+          "questionId": "2161",
+          "title": "Partition Array According to Given Pivot",
+          "titleSlug": "partition-array-according-to-given-pivot",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092042890,
+              "runtime": "13 ms",
+              "memory": "164.9 MB",
+              "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
+            }
+          }
+        },
+        "duplicate-emails": {
+          "questionId": "182",
+          "title": "Duplicate Emails",
+          "titleSlug": "duplicate-emails",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092042890,
+              "runtime": "390 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Duplicate Emails/"
+            }
+          }
+        },
+        "employees-earning-more-than-their-managers": {
+          "questionId": "181",
+          "title": "Employees Earning More Than Their Managers",
+          "titleSlug": "employees-earning-more-than-their-managers",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092042890,
+              "runtime": "388 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
+            }
+          }
+        },
+        "replace-employee-id-with-the-unique-identifier": {
+          "questionId": "1378",
+          "title": "Replace Employee ID With The Unique Identifier",
+          "titleSlug": "replace-employee-id-with-the-unique-identifier",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092042890,
+              "runtime": "1290 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Replace Employee ID With The Unique Identifier/"
+            }
+          }
+        },
+        "product-sales-analysis-i": {
+          "questionId": "1068",
+          "title": "Product Sales Analysis I",
+          "titleSlug": "product-sales-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092042890,
+              "runtime": "1169 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Product Sales Analysis I/"
             }
           }
         }
