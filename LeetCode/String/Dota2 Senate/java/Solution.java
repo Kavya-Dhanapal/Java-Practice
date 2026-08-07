@@ -1,0 +1,30 @@
+class Solution {
+    public String predictPartyVictory(String senate) {
+         Queue<Integer> d=new LinkedList<>();
+          Queue<Integer> r=new LinkedList<>();
+          for(int i=0;i<senate.length();i++){
+            if(senate.charAt(i)=='R'){
+                r.offer(i);
+            }
+            else{
+                d.offer(i);
+            }
+          }
+          while(!r.isEmpty() && !d.isEmpty()){
+            int ri=r.poll();
+            int di=d.poll();
+            if(ri<di){
+                r.offer(ri+senate.length());
+            }
+            else{
+                d.offer(di+senate.length());
+            }
+          }
+          if(r.isEmpty()){
+            return "Dire";
+          }
+          else{
+            return "Radiant";
+          }
+    }
+}
