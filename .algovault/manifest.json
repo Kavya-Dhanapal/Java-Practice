@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T15:35:36.643Z",
+  "lastUpdated": "2026-08-07T15:40:01.255Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3311,6 +3311,26 @@
               "runtime": "2 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Hash Table/Second Largest Digit in a String/"
+            }
+          }
+        },
+        "repeated-substring-pattern": {
+          "questionId": "459",
+          "title": "Repeated Substring Pattern",
+          "titleSlug": "repeated-substring-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786117201255,
+              "runtime": "31 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
             }
           }
         }
