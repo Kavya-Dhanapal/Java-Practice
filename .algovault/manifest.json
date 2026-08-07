@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T08:41:28.506Z",
+  "lastUpdated": "2026-08-07T08:41:38.046Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2733,6 +2733,265 @@
               "runtime": "8 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
+            }
+          }
+        },
+        "maximum-subarray": {
+          "questionId": "53",
+          "title": "Maximum Subarray",
+          "titleSlug": "maximum-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "1 ms",
+              "memory": "77.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray/"
+            }
+          }
+        },
+        "ugly-number": {
+          "questionId": "263",
+          "title": "Ugly Number",
+          "titleSlug": "ugly-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "1 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Ugly Number/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "12 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "spiral-matrix": {
+          "questionId": "54",
+          "title": "Spiral Matrix",
+          "titleSlug": "spiral-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "5 ms",
+              "memory": "46.2 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            }
+          }
+        },
+        "find-common-characters": {
+          "questionId": "1002",
+          "title": "Find Common Characters",
+          "titleSlug": "find-common-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "1 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Find Common Characters/"
+            }
+          }
+        },
+        "majority-element": {
+          "questionId": "169",
+          "title": "Majority Element",
+          "titleSlug": "majority-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Counting",
+            "Boyer–Moore Majority Vote Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "1 ms",
+              "memory": "55.6 MB",
+              "githubPath": "LeetCode/Array/Majority Element/"
+            }
+          }
+        },
+        "most-frequent-number-following-key-in-an-array": {
+          "questionId": "2190",
+          "title": "Most Frequent Number Following Key In an Array",
+          "titleSlug": "most-frequent-number-following-key-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "3 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Most Frequent Number Following Key In an Array/"
+            }
+          }
+        },
+        "longest-continuous-increasing-subsequence": {
+          "questionId": "674",
+          "title": "Longest Continuous Increasing Subsequence",
+          "titleSlug": "longest-continuous-increasing-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Longest Continuous Increasing Subsequence/"
+            }
+          }
+        },
+        "maximize-sum-of-array-after-k-negations": {
+          "questionId": "1005",
+          "title": "Maximize Sum Of Array After K Negations",
+          "titleSlug": "maximize-sum-of-array-after-k-negations",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "2 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Maximize Sum Of Array After K Negations/"
+            }
+          }
+        },
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "3 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
+            }
+          }
+        },
+        "how-many-numbers-are-smaller-than-the-current-number": {
+          "questionId": "1365",
+          "title": "How Many Numbers Are Smaller Than the Current Number",
+          "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "8 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/How Many Numbers Are Smaller Than the Current Number/"
+            }
+          }
+        },
+        "create-target-array-in-the-given-order": {
+          "questionId": "1389",
+          "title": "Create Target Array in the Given Order",
+          "titleSlug": "create-target-array-in-the-given-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092098046,
+              "runtime": "0 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Create Target Array in the Given Order/"
             }
           }
         }
