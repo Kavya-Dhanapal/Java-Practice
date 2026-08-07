@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T08:41:19.247Z",
+  "lastUpdated": "2026-08-07T08:41:28.506Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2448,6 +2448,291 @@
               "runtime": "0 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Array/Find Minimum Operations to Make All Elements Divisible by Three/"
+            }
+          }
+        },
+        "minimum-operations-to-make-array-sum-divisible-by-k": {
+          "questionId": "3512",
+          "title": "Minimum Operations to Make Array Sum Divisible by K",
+          "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088505,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Minimum Operations to Make Array Sum Divisible by K/"
+            }
+          }
+        },
+        "permutation-difference-between-two-strings": {
+          "questionId": "3146",
+          "title": "Permutation Difference between Two Strings",
+          "titleSlug": "permutation-difference-between-two-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "1 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Hash Table/Permutation Difference between Two Strings/"
+            }
+          }
+        },
+        "count-the-number-of-consistent-strings": {
+          "questionId": "1684",
+          "title": "Count the Number of Consistent Strings",
+          "titleSlug": "count-the-number-of-consistent-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "24 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Count the Number of Consistent Strings/"
+            }
+          }
+        },
+        "find-most-frequent-vowel-and-consonant": {
+          "questionId": "3541",
+          "title": "Find Most Frequent Vowel and Consonant",
+          "titleSlug": "find-most-frequent-vowel-and-consonant",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "1 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Hash Table/Find Most Frequent Vowel and Consonant/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            }
+          }
+        },
+        "number-of-good-pairs": {
+          "questionId": "1512",
+          "title": "Number of Good Pairs",
+          "titleSlug": "number-of-good-pairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Number of Good Pairs/"
+            }
+          }
+        },
+        "the-two-sneaky-numbers-of-digitville": {
+          "questionId": "3289",
+          "title": "The Two Sneaky Numbers of Digitville",
+          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "8 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+            }
+          }
+        },
+        "restore-finishing-order": {
+          "questionId": "3668",
+          "title": "Restore Finishing Order",
+          "titleSlug": "restore-finishing-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "3 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Restore Finishing Order/"
+            }
+          }
+        },
+        "find-pivot-index": {
+          "questionId": "724",
+          "title": "Find Pivot Index",
+          "titleSlug": "find-pivot-index",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "319 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Find Pivot Index/"
+            }
+          }
+        },
+        "find-the-duplicate-number": {
+          "questionId": "287",
+          "title": "Find the Duplicate Number",
+          "titleSlug": "find-the-duplicate-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Bit Manipulation",
+            "Pigeonhole Principle",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "24 ms",
+              "memory": "91.8 MB",
+              "githubPath": "LeetCode/Array/Find the Duplicate Number/"
+            }
+          }
+        },
+        "build-array-from-permutation": {
+          "questionId": "1920",
+          "title": "Build Array from Permutation",
+          "titleSlug": "build-array-from-permutation",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Build Array from Permutation/"
+            }
+          }
+        },
+        "find-all-lonely-numbers-in-the-array": {
+          "questionId": "2150",
+          "title": "Find All Lonely Numbers in the Array",
+          "titleSlug": "find-all-lonely-numbers-in-the-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "78 ms",
+              "memory": "156.4 MB",
+              "githubPath": "LeetCode/Array/Find All Lonely Numbers in the Array/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "2 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "array-partition": {
+          "questionId": "561",
+          "title": "Array Partition",
+          "titleSlug": "array-partition",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "19 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            }
+          }
+        },
+        "power-of-three": {
+          "questionId": "326",
+          "title": "Power of Three",
+          "titleSlug": "power-of-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092088506,
+              "runtime": "8 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Math/Power of Three/"
             }
           }
         }
