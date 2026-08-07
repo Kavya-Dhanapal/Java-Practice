@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T08:39:56.995Z",
+  "lastUpdated": "2026-08-07T08:40:04.246Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -23,21 +23,574 @@
             }
           }
         },
-        "search-insert-position": {
-          "questionId": "35",
-          "title": "Search Insert Position",
-          "titleSlug": "search-insert-position",
+        "zigzag-conversion": {
+          "questionId": "6",
+          "title": "Zigzag Conversion",
+          "titleSlug": "zigzag-conversion",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993490,
+              "runtime": "42 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "plus-one": {
+          "questionId": "66",
+          "title": "Plus One",
+          "titleSlug": "plus-one",
           "difficulty": "Easy",
           "tags": [
             "Array",
-            "Binary Search"
+            "Math"
           ],
           "solutions": {
-            "123456class solution {public:    int searchinsert(vector<int>& nums, int target) {            }};": {
-              "syncedAt": 1786091996995,
-              "runtime": "N/A",
-              "memory": "N/A",
-              "githubPath": "LeetCode/Array/Search Insert Position/"
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Plus One/"
+            }
+          }
+        },
+        "sum-of-gcd-of-formed-pairs": {
+          "questionId": "3867",
+          "title": "Sum of GCD of Formed Pairs",
+          "titleSlug": "sum-of-gcd-of-formed-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers",
+            "Sorting",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "59 ms",
+              "memory": "126.3 MB",
+              "githubPath": "LeetCode/Array/Sum of GCD of Formed Pairs/"
+            }
+          }
+        },
+        "greatest-common-divisor-of-strings": {
+          "questionId": "1071",
+          "title": "Greatest Common Divisor of Strings",
+          "titleSlug": "greatest-common-divisor-of-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "1 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Math/Greatest Common Divisor of Strings/"
+            }
+          }
+        },
+        "gcd-of-odd-and-even-sums": {
+          "questionId": "3658",
+          "title": "GCD of Odd and Even Sums",
+          "titleSlug": "gcd-of-odd-and-even-sums",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/GCD of Odd and Even Sums/"
+            }
+          }
+        },
+        "find-greatest-common-divisor-of-array": {
+          "questionId": "1979",
+          "title": "Find Greatest Common Divisor of Array",
+          "titleSlug": "find-greatest-common-divisor-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Number Theory",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "0 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Find Greatest Common Divisor of Array/"
+            }
+          }
+        },
+        "removing-stars-from-a-string": {
+          "questionId": "2390",
+          "title": "Removing Stars From a String",
+          "titleSlug": "removing-stars-from-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "467 ms",
+              "memory": "52.1 MB",
+              "githubPath": "LeetCode/String/Removing Stars From a String/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "csharp": {
+              "syncedAt": 1786091993491,
+              "runtime": "35 ms",
+              "memory": "48.4 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "sum-of-subarray-ranges": {
+          "questionId": "2104",
+          "title": "Sum of Subarray Ranges",
+          "titleSlug": "sum-of-subarray-ranges",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "16 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Sum of Subarray Ranges/"
+            }
+          }
+        },
+        "next-greater-element-i": {
+          "questionId": "496",
+          "title": "Next Greater Element I",
+          "titleSlug": "next-greater-element-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "3 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element I/"
+            }
+          }
+        },
+        "first-unique-even-element": {
+          "questionId": "3866",
+          "title": "First Unique Even Element",
+          "titleSlug": "first-unique-even-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "2 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/First Unique Even Element/"
+            }
+          }
+        },
+        "rising-temperature": {
+          "questionId": "197",
+          "title": "Rising Temperature",
+          "titleSlug": "rising-temperature",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786091993491,
+              "runtime": "610 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Rising Temperature/"
+            }
+          }
+        },
+        "find-customer-referee": {
+          "questionId": "584",
+          "title": "Find Customer Referee",
+          "titleSlug": "find-customer-referee",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786091993491,
+              "runtime": "536 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Find Customer Referee/"
+            }
+          }
+        },
+        "ransom-note": {
+          "questionId": "383",
+          "title": "Ransom Note",
+          "titleSlug": "ransom-note",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "16 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/Ransom Note/"
+            }
+          }
+        },
+        "valid-anagram": {
+          "questionId": "242",
+          "title": "Valid Anagram",
+          "titleSlug": "valid-anagram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "14 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Hash Table/Valid Anagram/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786091993491,
+              "runtime": "38 ms",
+              "memory": "110.7 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "license-key-formatting": {
+          "questionId": "482",
+          "title": "License Key Formatting",
+          "titleSlug": "license-key-formatting",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092004246,
+              "runtime": "13 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/String/License Key Formatting/"
+            }
+          }
+        },
+        "calculate-special-bonus": {
+          "questionId": "1873",
+          "title": "Calculate Special Bonus",
+          "titleSlug": "calculate-special-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "575 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Calculate Special Bonus/"
+            }
+          }
+        },
+        "triangle-judgement": {
+          "questionId": "610",
+          "title": "Triangle Judgement",
+          "titleSlug": "triangle-judgement",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "297 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Triangle Judgement/"
+            }
+          }
+        },
+        "sales-person": {
+          "questionId": "607",
+          "title": "Sales Person",
+          "titleSlug": "sales-person",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "1565 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Sales Person/"
+            }
+          }
+        },
+        "second-highest-salary": {
+          "questionId": "176",
+          "title": "Second Highest Salary",
+          "titleSlug": "second-highest-salary",
+          "difficulty": "Medium",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "451 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Second Highest Salary/"
+            }
+          }
+        },
+        "big-countries": {
+          "questionId": "595",
+          "title": "Big Countries",
+          "titleSlug": "big-countries",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "292 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Big Countries/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "1030 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "game-play-analysis-i": {
+          "questionId": "511",
+          "title": "Game Play Analysis I",
+          "titleSlug": "game-play-analysis-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "461 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Game Play Analysis I/"
+            }
+          }
+        },
+        "invalid-tweets": {
+          "questionId": "1683",
+          "title": "Invalid Tweets",
+          "titleSlug": "invalid-tweets",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "591 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Invalid Tweets/"
+            }
+          }
+        },
+        "not-boring-movies": {
+          "questionId": "620",
+          "title": "Not Boring Movies",
+          "titleSlug": "not-boring-movies",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092004246,
+              "runtime": "262 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Not Boring Movies/"
+            }
+          }
+        },
+        "kth-smallest-element-in-a-bst": {
+          "questionId": "230",
+          "title": "Kth Smallest Element in a BST",
+          "titleSlug": "kth-smallest-element-in-a-bst",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092004246,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Tree/Kth Smallest Element in a BST/"
+            }
+          }
+        },
+        "binary-tree-inorder-traversal": {
+          "questionId": "94",
+          "title": "Binary Tree Inorder Traversal",
+          "titleSlug": "binary-tree-inorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092004246,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
+            }
+          }
+        },
+        "validate-binary-search-tree": {
+          "questionId": "98",
+          "title": "Validate Binary Search Tree",
+          "titleSlug": "validate-binary-search-tree",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092004246,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Tree/Validate Binary Search Tree/"
+            }
+          }
+        },
+        "maximum-erasure-value": {
+          "questionId": "1695",
+          "title": "Maximum Erasure Value",
+          "titleSlug": "maximum-erasure-value",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092004246,
+              "runtime": "50 ms",
+              "memory": "93.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Erasure Value/"
+            }
+          }
+        },
+        "diameter-of-binary-tree": {
+          "questionId": "543",
+          "title": "Diameter of Binary Tree",
+          "titleSlug": "diameter-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree",
+            "DP on Trees"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092004246,
+              "runtime": "0 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
             }
           }
         }
