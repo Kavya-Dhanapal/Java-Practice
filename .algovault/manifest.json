@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T08:40:42.890Z",
+  "lastUpdated": "2026-08-07T08:40:55.703Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1583,6 +1583,307 @@
               "runtime": "1169 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Product Sales Analysis I/"
+            }
+          }
+        },
+        "employee-bonus": {
+          "questionId": "577",
+          "title": "Employee Bonus",
+          "titleSlug": "employee-bonus",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092055702,
+              "runtime": "3129 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Employee Bonus/"
+            }
+          }
+        },
+        "customers-who-never-order": {
+          "questionId": "183",
+          "title": "Customers Who Never Order",
+          "titleSlug": "customers-who-never-order",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092055702,
+              "runtime": "824 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Customers Who Never Order/"
+            }
+          }
+        },
+        "combine-two-tables": {
+          "questionId": "175",
+          "title": "Combine Two Tables",
+          "titleSlug": "combine-two-tables",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786092055702,
+              "runtime": "472 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Combine Two Tables/"
+            }
+          }
+        },
+        "flipping-an-image": {
+          "questionId": "832",
+          "title": "Flipping an Image",
+          "titleSlug": "flipping-an-image",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Bit Manipulation",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055702,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Flipping an Image/"
+            }
+          }
+        },
+        "kth-smallest-element-in-a-sorted-matrix": {
+          "questionId": "378",
+          "title": "Kth Smallest Element in a Sorted Matrix",
+          "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055702,
+              "runtime": "0 ms",
+              "memory": "52.3 MB",
+              "githubPath": "LeetCode/Array/Kth Smallest Element in a Sorted Matrix/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055702,
+              "runtime": "2 ms",
+              "memory": "48.1 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "gas-station": {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055702,
+              "runtime": "2 ms",
+              "memory": "119.2 MB",
+              "githubPath": "LeetCode/Array/Gas Station/"
+            }
+          }
+        },
+        "truncate-sentence": {
+          "questionId": "1816",
+          "title": "Truncate Sentence",
+          "titleSlug": "truncate-sentence",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055702,
+              "runtime": "4 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Array/Truncate Sentence/"
+            }
+          }
+        },
+        "reverse-degree-of-a-string": {
+          "questionId": "3498",
+          "title": "Reverse Degree of a String",
+          "titleSlug": "reverse-degree-of-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055702,
+              "runtime": "1 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/String/Reverse Degree of a String/"
+            }
+          }
+        },
+        "find-peak-element": {
+          "questionId": "162",
+          "title": "Find Peak Element",
+          "titleSlug": "find-peak-element",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055702,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Find Peak Element/"
+            }
+          }
+        },
+        "reverse-prefix-of-word": {
+          "questionId": "2000",
+          "title": "Reverse Prefix of Word",
+          "titleSlug": "reverse-prefix-of-word",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055703,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Prefix of Word/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055703,
+              "runtime": "6 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            }
+          }
+        },
+        "number-of-different-integers-in-a-string": {
+          "questionId": "1805",
+          "title": "Number of Different Integers in a String",
+          "titleSlug": "number-of-different-integers-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055703,
+              "runtime": "7 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Hash Table/Number of Different Integers in a String/"
+            }
+          }
+        },
+        "subarray-sum-equals-k": {
+          "questionId": "560",
+          "title": "Subarray Sum Equals K",
+          "titleSlug": "subarray-sum-equals-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055703,
+              "runtime": "1115 ms",
+              "memory": "49.1 MB",
+              "githubPath": "LeetCode/Array/Subarray Sum Equals K/"
+            }
+          }
+        },
+        "repeated-dna-sequences": {
+          "questionId": "187",
+          "title": "Repeated DNA Sequences",
+          "titleSlug": "repeated-dna-sequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sliding Window",
+            "Rolling Hash",
+            "Hash Function",
+            "Z Algorithm",
+            "Boyer–Moore String-Search Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055703,
+              "runtime": "18 ms",
+              "memory": "55.8 MB",
+              "githubPath": "LeetCode/Hash Table/Repeated DNA Sequences/"
+            }
+          }
+        },
+        "longest-consecutive-sequence": {
+          "questionId": "128",
+          "title": "Longest Consecutive Sequence",
+          "titleSlug": "longest-consecutive-sequence",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Union-Find"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786092055703,
+              "runtime": "32 ms",
+              "memory": "95.8 MB",
+              "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
             }
           }
         }
