@@ -1,4 +1,4 @@
-GFG Solutions
+Java-Practice
 
 
 <!-- ALGOVAULT:STATS:START -->
