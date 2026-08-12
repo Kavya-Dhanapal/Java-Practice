@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T15:40:01.255Z",
+  "lastUpdated": "2026-08-12T14:11:21.974Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3331,6 +3331,25 @@
               "runtime": "31 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/String/Repeated Substring Pattern/"
+            }
+          }
+        },
+        "binary-tree-level-order-traversal": {
+          "questionId": "102",
+          "title": "Binary Tree Level Order Traversal",
+          "titleSlug": "binary-tree-level-order-traversal",
+          "difficulty": "Medium",
+          "tags": [
+            "Tree",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786543881973,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
             }
           }
         }
