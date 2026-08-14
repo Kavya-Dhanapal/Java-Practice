@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-14T06:58:06.117Z",
+  "lastUpdated": "2026-08-14T06:59:59.682Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1062,9 +1062,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786690686116,
+              "syncedAt": 1786690799681,
               "runtime": "0 ms",
-              "memory": "45 MB",
+              "memory": "45.4 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
             }
           }
