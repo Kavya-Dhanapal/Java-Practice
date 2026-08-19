@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-14T06:59:59.682Z",
+  "lastUpdated": "2026-08-19T08:15:56.994Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3350,6 +3350,24 @@
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Tree/Binary Tree Level Order Traversal/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787127356992,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
             }
           }
         }
