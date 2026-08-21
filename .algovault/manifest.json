@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T08:16:21.256Z",
+  "lastUpdated": "2026-08-21T14:43:52.000Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3368,6 +3368,25 @@
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "12345class solution {    public string[] findrelativeranks(int[] score) {            }}": {
+              "syncedAt": 1787323432000,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
             }
           }
         }
