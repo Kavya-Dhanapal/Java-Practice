@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:49:22.265Z",
+  "lastUpdated": "2026-08-26T10:49:30.702Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3400,10 +3400,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741302859,
+              "syncedAt": 1787741370702,
               "runtime": "1 ms",
-              "memory": "45.08 MB",
-              "githubPath": "LeetCode/General/Smallest Missing Multiple of K/"
+              "memory": "46.85 MB",
+              "githubPath": "LeetCode/General/Beautiful Arrangement II/"
             }
           }
         },
