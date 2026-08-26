@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741302862" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741311413" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -105,6 +105,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](./Array/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/) | Easy |
 | 3668 | [Restore Finishing Order](./Array/Restore%20Finishing%20Order/) | Easy |
 | 3701 | [Compute Alternating Sum](./Array/Compute%20Alternating%20Sum/) | Easy |
+| 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
 | 3866 | [First Unique Even Element](./Array/First%20Unique%20Even%20Element/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
 
