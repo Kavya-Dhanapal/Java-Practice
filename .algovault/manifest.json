@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:48:59.296Z",
+  "lastUpdated": "2026-08-26T10:49:06.124Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3400,10 +3400,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741339296,
-              "runtime": "1 ms",
-              "memory": "42.78 MB",
-              "githubPath": "LeetCode/General/Word Pattern/"
+              "syncedAt": 1787741346124,
+              "runtime": "31 ms",
+              "memory": "53.58 MB",
+              "githubPath": "LeetCode/General/Non/"
             }
           }
         }
