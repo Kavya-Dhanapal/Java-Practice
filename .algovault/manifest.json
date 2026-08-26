@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:49:06.124Z",
+  "lastUpdated": "2026-08-26T10:49:10.543Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3400,10 +3400,30 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741346124,
-              "runtime": "31 ms",
-              "memory": "53.58 MB",
-              "githubPath": "LeetCode/General/Non/"
+              "syncedAt": 1787741302859,
+              "runtime": "1 ms",
+              "memory": "45.08 MB",
+              "githubPath": "LeetCode/General/Smallest Missing Multiple of K/"
+            }
+          }
+        },
+        "non-decreasing-subsequences": {
+          "questionId": "491",
+          "title": "Non-decreasing Subsequences",
+          "titleSlug": "non-decreasing-subsequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "12345class solution {    public list<list<integer>> findsubsequences(int[] nums) {            }}": {
+              "syncedAt": 1787741350543,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Non-decreasing Subsequences/"
             }
           }
         }
