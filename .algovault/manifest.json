@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:47:54.650Z",
+  "lastUpdated": "2026-08-26T10:47:59.000Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3392,7 +3392,7 @@
         },
         "unknown-problem": {
           "questionId": "",
-          "title": "Minimum Average of Smallest and Largest Elements",
+          "title": "Minimum Absolute Difference",
           "titleSlug": "unknown-problem",
           "difficulty": "Medium",
           "tags": [
@@ -3400,10 +3400,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741274650,
-              "runtime": "4 ms",
-              "memory": "48.14 MB",
-              "githubPath": "LeetCode/General/Minimum Average of Smallest and Largest Elements/"
+              "syncedAt": 1787741279000,
+              "runtime": "22 ms",
+              "memory": "63.51 MB",
+              "githubPath": "LeetCode/General/Minimum Absolute Difference/"
             }
           }
         }
