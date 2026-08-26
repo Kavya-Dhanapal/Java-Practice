@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:50:41.917Z",
+  "lastUpdated": "2026-08-26T10:50:55.212Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3400,10 +3400,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741441916,
-              "runtime": "22 ms",
-              "memory": "63.51 MB",
-              "githubPath": "LeetCode/General/Minimum Absolute Difference/"
+              "syncedAt": 1787741302859,
+              "runtime": "1 ms",
+              "memory": "45.08 MB",
+              "githubPath": "LeetCode/General/Smallest Missing Multiple of K/"
             }
           }
         },
@@ -3437,7 +3437,7 @@
           ],
           "solutions": {
             "12345class solution {    public boolean arealmostequal(string s1, string s2) {            }}": {
-              "syncedAt": 1787741387657,
+              "syncedAt": 1787741455212,
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Check if One String Swap Can Make Strings Equal/"
