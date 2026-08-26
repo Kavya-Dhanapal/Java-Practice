@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:50:55.212Z",
+  "lastUpdated": "2026-08-26T10:51:05.329Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3437,10 +3437,30 @@
           ],
           "solutions": {
             "12345class solution {    public boolean arealmostequal(string s1, string s2) {            }}": {
-              "syncedAt": 1787741455212,
+              "syncedAt": 1787741387657,
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Check if One String Swap Can Make Strings Equal/"
+            }
+          }
+        },
+        "non-decreasing-subsequences": {
+          "questionId": "491",
+          "title": "Non-decreasing Subsequences",
+          "titleSlug": "non-decreasing-subsequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "12345class solution {    public list<list<integer>> findsubsequences(int[] nums) {            }}": {
+              "syncedAt": 1787741465329,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Non-decreasing Subsequences/"
             }
           }
         }
