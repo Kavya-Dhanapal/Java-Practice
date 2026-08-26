@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:47:59.000Z",
+  "lastUpdated": "2026-08-26T10:48:08.320Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3390,20 +3390,21 @@
             }
           }
         },
-        "unknown-problem": {
-          "questionId": "",
+        "minimum-absolute-difference": {
+          "questionId": "1200",
           "title": "Minimum Absolute Difference",
-          "titleSlug": "unknown-problem",
-          "difficulty": "Medium",
+          "titleSlug": "minimum-absolute-difference",
+          "difficulty": "Easy",
           "tags": [
-            "General"
+            "Array",
+            "Sorting"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1787741279000,
-              "runtime": "22 ms",
-              "memory": "63.51 MB",
-              "githubPath": "LeetCode/General/Minimum Absolute Difference/"
+            "12345class solution {    public list<list<integer>> minimumabsdifference(int[] arr) {            }}": {
+              "syncedAt": 1787741288319,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Minimum Absolute Difference/"
             }
           }
         }
