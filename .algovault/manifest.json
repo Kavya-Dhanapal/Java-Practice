@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:47:43.834Z",
+  "lastUpdated": "2026-08-26T10:47:54.650Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3390,22 +3390,20 @@
             }
           }
         },
-        "minimum-average-of-smallest-and-largest-elements": {
-          "questionId": "3194",
+        "unknown-problem": {
+          "questionId": "",
           "title": "Minimum Average of Smallest and Largest Elements",
-          "titleSlug": "minimum-average-of-smallest-and-largest-elements",
-          "difficulty": "Easy",
+          "titleSlug": "unknown-problem",
+          "difficulty": "Medium",
           "tags": [
-            "Array",
-            "Two Pointers",
-            "Sorting"
+            "General"
           ],
           "solutions": {
-            "12345class solution {    public double minimumaverage(int[] nums) {            }}": {
-              "syncedAt": 1787741263834,
-              "runtime": "N/A",
-              "memory": "N/A",
-              "githubPath": "LeetCode/Array/Minimum Average of Smallest and Largest Elements/"
+            "java": {
+              "syncedAt": 1787741274650,
+              "runtime": "4 ms",
+              "memory": "48.14 MB",
+              "githubPath": "LeetCode/General/Minimum Average of Smallest and Largest Elements/"
             }
           }
         }
