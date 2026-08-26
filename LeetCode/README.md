@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741382756" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741387659" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -179,7 +179,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Smallest Missing Multiple of K](./General/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/) | Medium |
+| — | [Smallest Missing Multiple of K](./General/Smallest%20Missing%20Multiple%20of%20K/) | Medium |
 
 </details>
 
@@ -203,6 +203,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 567 | [Permutation in String](./Hash%20Table/Permutation%20in%20String/) | Medium |
 | 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
 | 1189 | [Maximum Number of Balloons](./Hash%20Table/Maximum%20Number%20of%20Balloons/) | Easy |
+| 1790 | [Check if One String Swap Can Make Strings Equal](./Hash%20Table/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/) | Easy |
 | 1796 | [Second Largest Digit in a String](./Hash%20Table/Second%20Largest%20Digit%20in%20a%20String/) | Easy |
 | 1805 | [Number of Different Integers in a String](./Hash%20Table/Number%20of%20Different%20Integers%20in%20a%20String/) | Easy |
 | 3146 | [Permutation Difference between Two Strings](./Hash%20Table/Permutation%20Difference%20between%20Two%20Strings/) | Easy |

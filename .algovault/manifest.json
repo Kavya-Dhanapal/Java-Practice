@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:49:42.753Z",
+  "lastUpdated": "2026-08-26T10:49:47.657Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3400,10 +3400,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741382753,
-              "runtime": "243 ms",
-              "memory": "46.63 MB",
-              "githubPath": "LeetCode/General/Check if One String Swap Can Make Strings Equal/"
+              "syncedAt": 1787741302859,
+              "runtime": "1 ms",
+              "memory": "45.08 MB",
+              "githubPath": "LeetCode/General/Smallest Missing Multiple of K/"
             }
           }
         },
@@ -3422,6 +3422,25 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Previous Permutation With One Swap/"
+            }
+          }
+        },
+        "check-if-one-string-swap-can-make-strings-equal": {
+          "questionId": "1790",
+          "title": "Check if One String Swap Can Make Strings Equal",
+          "titleSlug": "check-if-one-string-swap-can-make-strings-equal",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "12345class solution {    public boolean arealmostequal(string s1, string s2) {            }}": {
+              "syncedAt": 1787741387657,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Hash Table/Check if One String Swap Can Make Strings Equal/"
             }
           }
         }
