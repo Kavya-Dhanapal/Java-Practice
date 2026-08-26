@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741329126" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741339298" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -178,7 +178,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Smallest Missing Multiple of K](./General/Smallest%20Missing%20Multiple%20of%20K/) | Medium |
+| — | [Smallest Missing Multiple of K](./General/Word%20Pattern/) | Medium |
 
 </details>
 
@@ -272,7 +272,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
-| 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1446 | [Consecutive Characters](./String/Consecutive%20Characters/) | Easy |
