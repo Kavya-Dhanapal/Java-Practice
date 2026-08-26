@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741479469" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741493987" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -102,6 +102,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2798 | [Number of Employees Who Met the Target](./Array/Number%20of%20Employees%20Who%20Met%20the%20Target/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/) | Easy |
+| 3194 | [Minimum Average of Smallest and Largest Elements](./Array/Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements/) | Easy |
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](./Array/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/) | Easy |
 | 3668 | [Restore Finishing Order](./Array/Restore%20Finishing%20Order/) | Easy |
@@ -274,7 +275,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 649 | [Dota2 Senate](./String/Dota2%20Senate/) | Medium |
-| 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1446 | [Consecutive Characters](./String/Consecutive%20Characters/) | Easy |
