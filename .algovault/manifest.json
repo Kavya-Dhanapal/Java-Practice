@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:49:47.657Z",
+  "lastUpdated": "2026-08-26T10:50:41.917Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3400,10 +3400,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741302859,
-              "runtime": "1 ms",
-              "memory": "45.08 MB",
-              "githubPath": "LeetCode/General/Smallest Missing Multiple of K/"
+              "syncedAt": 1787741441916,
+              "runtime": "22 ms",
+              "memory": "63.51 MB",
+              "githubPath": "LeetCode/General/Minimum Absolute Difference/"
             }
           }
         },
