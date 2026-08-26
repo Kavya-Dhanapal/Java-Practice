@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:51:05.329Z",
+  "lastUpdated": "2026-08-26T10:51:19.466Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3444,23 +3444,21 @@
             }
           }
         },
-        "non-decreasing-subsequences": {
-          "questionId": "491",
-          "title": "Non-decreasing Subsequences",
-          "titleSlug": "non-decreasing-subsequences",
-          "difficulty": "Medium",
+        "robot-return-to-origin": {
+          "questionId": "657",
+          "title": "Robot Return to Origin",
+          "titleSlug": "robot-return-to-origin",
+          "difficulty": "Easy",
           "tags": [
-            "Array",
-            "Hash Table",
-            "Backtracking",
-            "Bit Manipulation"
+            "String",
+            "Simulation"
           ],
           "solutions": {
-            "12345class solution {    public list<list<integer>> findsubsequences(int[] nums) {            }}": {
-              "syncedAt": 1787741465329,
+            "12345class solution {    public boolean judgecircle(string moves) {            }}": {
+              "syncedAt": 1787741479466,
               "runtime": "N/A",
               "memory": "N/A",
-              "githubPath": "LeetCode/Array/Non-decreasing Subsequences/"
+              "githubPath": "LeetCode/String/Robot Return to Origin/"
             }
           }
         }
