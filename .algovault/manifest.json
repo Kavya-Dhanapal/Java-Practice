@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:51:33.984Z",
+  "lastUpdated": "2026-08-26T10:53:58.995Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3456,7 +3456,7 @@
           ],
           "solutions": {
             "12345class solution {    public double minimumaverage(int[] nums) {            }}": {
-              "syncedAt": 1787741493983,
+              "syncedAt": 1787741638994,
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Minimum Average of Smallest and Largest Elements/"
