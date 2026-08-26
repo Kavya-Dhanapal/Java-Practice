@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:49:17.565Z",
+  "lastUpdated": "2026-08-26T10:49:22.265Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3400,10 +3400,28 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741357565,
-              "runtime": "0 ms",
-              "memory": "47.51 MB",
-              "githubPath": "LeetCode/General/Previous Permutation With One Swap/"
+              "syncedAt": 1787741302859,
+              "runtime": "1 ms",
+              "memory": "45.08 MB",
+              "githubPath": "LeetCode/General/Smallest Missing Multiple of K/"
+            }
+          }
+        },
+        "previous-permutation-with-one-swap": {
+          "questionId": "1053",
+          "title": "Previous Permutation With One Swap",
+          "titleSlug": "previous-permutation-with-one-swap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "12345class solution {    public int[] prevpermopt1(int[] arr) {            }}": {
+              "syncedAt": 1787741362265,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Previous Permutation With One Swap/"
             }
           }
         }

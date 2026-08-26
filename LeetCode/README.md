@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741357567" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1787741362268" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -74,6 +74,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 974 | [Subarray Sums Divisible by K](./Array/Subarray%20Sums%20Divisible%20by%20K/) | Medium |
 | 1002 | [Find Common Characters](./Array/Find%20Common%20Characters/) | Easy |
 | 1005 | [Maximize Sum Of Array After K Negations](./Array/Maximize%20Sum%20Of%20Array%20After%20K%20Negations/) | Easy |
+| 1053 | [Previous Permutation With One Swap](./Array/Previous%20Permutation%20With%20One%20Swap/) | Medium |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./Array/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/) | Easy |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](./Array/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number/) | Easy |
@@ -178,7 +179,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Smallest Missing Multiple of K](./General/Previous%20Permutation%20With%20One%20Swap/) | Medium |
+| — | [Smallest Missing Multiple of K](./General/Smallest%20Missing%20Multiple%20of%20K/) | Medium |
 
 </details>
 
