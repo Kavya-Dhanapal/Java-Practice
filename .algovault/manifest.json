@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-26T10:49:30.702Z",
+  "lastUpdated": "2026-08-26T10:49:42.753Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3400,10 +3400,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787741370702,
-              "runtime": "1 ms",
-              "memory": "46.85 MB",
-              "githubPath": "LeetCode/General/Beautiful Arrangement II/"
+              "syncedAt": 1787741382753,
+              "runtime": "243 ms",
+              "memory": "46.63 MB",
+              "githubPath": "LeetCode/General/Check if One String Swap Can Make Strings Equal/"
             }
           }
         },
