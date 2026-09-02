@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-02T06:50:49.235Z",
+  "lastUpdated": "2026-09-02T06:51:58.023Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3460,6 +3460,24 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Minimum Average of Smallest and Largest Elements/"
+            }
+          }
+        },
+        "find-the-peaks": {
+          "questionId": "2951",
+          "title": "Find the Peaks",
+          "titleSlug": "find-the-peaks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Enumeration"
+          ],
+          "solutions": {
+            "1234567891011class solution {    public list<integer> findpeaks(int[] mountain) {        list<integer> l=new arraylist<>();        for(int i=1;i<mountain.length-1;i++){            if(mountain[i-1]<mountain[i] && mountain[i]>mountain[i+1]){                l.add(i);            }        }        return l;    }}": {
+              "syncedAt": 1788331918022,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Find the Peaks/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1788331849268" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1788331918046" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -101,6 +101,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2574 | [Left and Right Sum Differences](./Array/Left%20and%20Right%20Sum%20Differences/) | Easy |
 | 2798 | [Number of Employees Who Met the Target](./Array/Number%20of%20Employees%20Who%20Met%20the%20Target/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
+| 2951 | [Find the Peaks](./Array/Find%20the%20Peaks/) | Easy |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/) | Easy |
 | 3194 | [Minimum Average of Smallest and Largest Elements](./Array/Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements/) | Easy |
 | 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
