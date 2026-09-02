@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-02T06:54:05.011Z",
+  "lastUpdated": "2026-09-02T10:23:17.312Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3016,6 +3016,12 @@
               "syncedAt": 1786092107644,
               "runtime": "5 ms",
               "memory": "46.2 MB",
+              "githubPath": "LeetCode/Array/Find Target Indices After Sorting Array/"
+            },
+            "12345class solution {    public list<integer> targetindices(int[] nums, int target) {            }}": {
+              "syncedAt": 1788344597311,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Find Target Indices After Sorting Array/"
             }
           }

@@ -5,48 +5,67 @@
 
 ## Problem Statement
 
-<p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a target element <code>target</code>.</p>
+You are given a 0-indexed integer array nums and a target element target.
 
-<p>A <strong>target index</strong> is an index <code>i</code> such that <code>nums[i] == target</code>.</p>
+A target index is an index i such that nums[i] == target.
 
-<p>Return <em>a list of the target indices of</em> <code>nums</code> after<em> sorting </em><code>nums</code><em> in <strong>non-decreasing</strong> order</em>. If there are no target indices, return <em>an <strong>empty</strong> list</em>. The returned list must be sorted in <strong>increasing</strong> order.</p>
+Return a list of the target indices of nums after sorting nums in non-decreasing order. If there are no target indices, return an empty list. The returned list must be sorted in increasing order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> nums = [1,2,5,2,3], target = 2
-<strong>Output:</strong> [1,2]
-<strong>Explanation:</strong> After sorting, nums is [1,<u><strong>2</strong></u>,<u><strong>2</strong></u>,3,5].
+Input: nums = [1,2,5,2,3], target = 2
+Output: [1,2]
+Explanation: After sorting, nums is [1,2,2,3,5].
 The indices where nums[i] == 2 are 1 and 2.
-</pre>
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> nums = [1,2,5,2,3], target = 3
-<strong>Output:</strong> [3]
-<strong>Explanation:</strong> After sorting, nums is [1,2,2,<u><strong>3</strong></u>,5].
+Example 2:
+
+Input: nums = [1,2,5,2,3], target = 3
+Output: [3]
+Explanation: After sorting, nums is [1,2,2,3,5].
 The index where nums[i] == 3 is 3.
-</pre>
 
-<p><strong class="example">Example 3:</strong></p>
 
-<pre>
-<strong>Input:</strong> nums = [1,2,5,2,3], target = 5
-<strong>Output:</strong> [4]
-<strong>Explanation:</strong> After sorting, nums is [1,2,2,3,<u><strong>5</strong></u>].
+Example 3:
+
+Input: nums = [1,2,5,2,3], target = 5
+Output: [4]
+Explanation: After sorting, nums is [1,2,2,3,5].
 The index where nums[i] == 5 is 4.
-</pre>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
-	<li><code>1 &lt;= nums[i], target &lt;= 100</code></li>
-</ul>
+ 
+Constraints:
 
+
+	1 <= nums.length <= 100
+	1 <= nums[i], target <= 100
+
+## Examples
+
+```
+Input: nums = [1,2,5,2,3], target = 2
+Output: [1,2]
+Explanation: After sorting, nums is [1,2,2,3,5].
+The indices where nums[i] == 2 are 1 and 2.
+
+Input: nums = [1,2,5,2,3], target = 3
+Output: [3]
+Explanation: After sorting, nums is [1,2,2,3,5].
+The index where nums[i] == 3 is 3.
+
+Input: nums = [1,2,5,2,3], target = 5
+Output: [4]
+Explanation: After sorting, nums is [1,2,2,3,5].
+The index where nums[i] == 5 is 4.
+```
+
+## Constraints
+
+- 1 <= nums.length <= 100
+- 1 <= nums[i], target <= 100
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
