@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-02T06:51:58.023Z",
+  "lastUpdated": "2026-09-02T06:54:05.011Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3477,6 +3477,12 @@
               "syncedAt": 1788331918022,
               "runtime": "N/A",
               "memory": "N/A",
+              "githubPath": "LeetCode/Array/Find the Peaks/"
+            },
+            "java": {
+              "syncedAt": 1788332045011,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Find the Peaks/"
             }
           }

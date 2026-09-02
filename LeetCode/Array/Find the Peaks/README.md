@@ -5,65 +5,47 @@
 
 ## Problem Statement
 
-You are given a 0-indexed array mountain. Your task is to find all the peaks in the mountain array.
+<p>You are given a <strong>0-indexed</strong> array <code>mountain</code>. Your task is to find all the <strong>peaks</strong> in the <code>mountain</code> array.</p>
 
-Return an array that consists of indices of peaks in the given array in any order.
+<p>Return <em>an array that consists of </em>indices<!-- notionvc: c9879de8-88bd-43b0-8224-40c4bee71cd6 --><em> of <strong>peaks</strong> in the given array in <strong>any order</strong>.</em></p>
 
-Notes:
+<p><strong>Notes:</strong></p>
 
+<ul>
+	<li>A <strong>peak</strong> is defined as an element that is <strong>strictly greater</strong> than its neighboring elements.</li>
+	<li>The first and last elements of the array are <strong>not</strong> a peak.</li>
+</ul>
 
-	A peak is defined as an element that is strictly greater than its neighboring elements.
-	The first and last elements of the array are not a peak.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-
- 
-Example 1:
-
-Input: mountain = [2,4,4]
-Output: []
-Explanation: mountain[0] and mountain[2] can not be a peak because they are first and last elements of the array.
+<pre>
+<strong>Input:</strong> mountain = [2,4,4]
+<strong>Output:</strong> []
+<strong>Explanation:</strong> mountain[0] and mountain[2] can not be a peak because they are first and last elements of the array.
 mountain[1] also can not be a peak because it is not strictly greater than mountain[2].
 So the answer is [].
+</pre>
 
+<p><strong class="example">Example 2:</strong></p>
 
-Example 2:
-
-Input: mountain = [1,4,3,8,5]
-Output: [1,3]
-Explanation: mountain[0] and mountain[4] can not be a peak because they are first and last elements of the array.
+<pre>
+<strong>Input:</strong> mountain = [1,4,3,8,5]
+<strong>Output:</strong> [1,3]
+<strong>Explanation:</strong> mountain[0] and mountain[4] can not be a peak because they are first and last elements of the array.
 mountain[2] also can not be a peak because it is not strictly greater than mountain[3] and mountain[1].
 But mountain [1] and mountain[3] are strictly greater than their neighboring elements.
 So the answer is [1,3].
+</pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
- 
-Constraints:
+<ul>
+	<li><code>3 &lt;= mountain.length &lt;= 100</code></li>
+	<li><code>1 &lt;= mountain[i] &lt;= 100</code></li>
+</ul>
 
-
-	3 <= mountain.length <= 100
-	1 <= mountain[i] <= 100
-
-## Examples
-
-```
-Input: mountain = [2,4,4]
-Output: []
-Explanation: mountain[0] and mountain[2] can not be a peak because they are first and last elements of the array.
-mountain[1] also can not be a peak because it is not strictly greater than mountain[2].
-So the answer is [].
-
-Input: mountain = [1,4,3,8,5]
-Output: [1,3]
-Explanation: mountain[0] and mountain[4] can not be a peak because they are first and last elements of the array.
-mountain[2] also can not be a peak because it is not strictly greater than mountain[3] and mountain[1].
-But mountain [1] and mountain[3] are strictly greater than their neighboring elements.
-So the answer is [1,3].
-```
-
-## Constraints
-
-- A peak is defined as an element that is strictly greater than its neighboring elements.
-- The first and last elements of the array are not a peak.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
