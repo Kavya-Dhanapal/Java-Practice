@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1788344597317" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1788345882105" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -181,7 +181,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Smallest Missing Multiple of K](./General/Find%20the%20Peaks/) | Medium |
+| — | [Smallest Missing Multiple of K](./General/Find%20Target%20Indices%20After%20Sorting%20Array/) | Medium |
 
 </details>
 

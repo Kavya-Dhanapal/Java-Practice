@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-02T10:23:17.312Z",
+  "lastUpdated": "2026-09-02T10:44:42.063Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3406,10 +3406,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1788331849234,
-              "runtime": "1 ms",
-              "memory": "45.15 MB",
-              "githubPath": "LeetCode/General/Find the Peaks/"
+              "syncedAt": 1788345882063,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/General/Find Target Indices After Sorting Array/"
             }
           }
         },
