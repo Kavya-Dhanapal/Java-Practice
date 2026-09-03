@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T10:44:43.802Z",
+  "lastUpdated": "2026-09-03T10:49:38.970Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3510,9 +3510,9 @@
               "githubPath": "LeetCode/Array/Distribute Candies/"
             },
             "java": {
-              "syncedAt": 1788432283802,
-              "runtime": "32 ms",
-              "memory": "48.1 MB",
+              "syncedAt": 1788432578969,
+              "runtime": "31 ms",
+              "memory": "48.4 MB",
               "githubPath": "LeetCode/Array/Distribute Candies/"
             }
           }
