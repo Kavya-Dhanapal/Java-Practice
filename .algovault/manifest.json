@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-02T10:44:42.063Z",
+  "lastUpdated": "2026-09-03T10:40:32.149Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3490,6 +3490,24 @@
               "runtime": "1 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Find the Peaks/"
+            }
+          }
+        },
+        "distribute-candies": {
+          "questionId": "575",
+          "title": "Distribute Candies",
+          "titleSlug": "distribute-candies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "12345class solution {    public int distributecandies(int[] candytype) {            }}": {
+              "syncedAt": 1788432032149,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Array/Distribute Candies/"
             }
           }
         }
