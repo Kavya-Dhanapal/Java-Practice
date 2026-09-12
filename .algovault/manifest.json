@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T10:49:38.970Z",
+  "lastUpdated": "2026-09-12T10:32:56.607Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3406,10 +3406,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1788345882063,
-              "runtime": "N/A",
-              "memory": "N/A",
-              "githubPath": "LeetCode/General/Find Target Indices After Sorting Array/"
+              "syncedAt": 1789209176606,
+              "runtime": "13 ms",
+              "memory": "53.23 MB",
+              "githubPath": "LeetCode/General/Majority Element II/"
             }
           }
         },
