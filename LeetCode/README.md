@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1789209176647" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/KavyaDhanapal?theme=tokyonight&show=graph,recent&v=1789209182972" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -49,6 +49,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
+| 229 | [Majority Element II](./Array/Majority%20Element%20II/) | Easy |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
@@ -182,7 +183,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| — | [Smallest Missing Multiple of K](./General/Majority%20Element%20II/) | Medium |
+| — | [Smallest Missing Multiple of K](./General/Find%20Target%20Indices%20After%20Sorting%20Array/) | Medium |
 
 </details>
 
